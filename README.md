@@ -1,7 +1,7 @@
 # HTMLStyle
 This is a Work In Progress.
 
-Description: Give HTML style, not CSS:
+Description: Give HTML style:
 
 ```
 <style>
@@ -9,7 +9,7 @@ Description: Give HTML style, not CSS:
 </style>
 ```
 
-...instead of (or in addition to):
+Instead of CSS:
 
 ```
 <style>
