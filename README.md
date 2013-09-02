@@ -12,6 +12,6 @@ Description: Attempt to allow CSS to have the HTML coding style:
 
 ```
 <style>
-tag {attribute:value};
+tag {attribute:value;}
 </style>
 ```
