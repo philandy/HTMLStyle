@@ -1,10 +1,10 @@
 # HTMLStyle
-This is a new repo WIP.
+This is a Work In Progress.
 
 Description: Attempt to allow CSS to have the HTML coding style:
 ```
 <style>
-<body width="100%">
+<tag attribute="value" />
 </style>
 ```
 
@@ -12,6 +12,6 @@ Description: Attempt to allow CSS to have the HTML coding style:
 
 ```
 <style>
-body {width:100%};
+tag {attribute:value};
 </style>
 ```
