@@ -1,7 +1,8 @@
 # HTMLStyle
 This is a Work In Progress.
 
-Description: Attempt to allow CSS to have the HTML coding style:
+Description: Give HTML style, not CSS:
+
 ```
 <style>
 <tag attribute="value" />
